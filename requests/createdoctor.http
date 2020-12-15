@@ -1,0 +1,8 @@
+POST  http://localhost:8000/createdoctor HTTP/1.1
+Content-Type: application/json
+
+{
+    "email": "anurag1409@hotmail.com",
+    "name": "Dr. Anurag Bera",
+    "worksAt": "RamManohar Lohia Hospital, South Delhi"
+}

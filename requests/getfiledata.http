@@ -1,0 +1,6 @@
+GET http://medh.herokuapp.com/getfile HTTP/1.1
+Content-Type: application/json
+
+{
+    "email": "rbasu611@gmail.com"
+}
